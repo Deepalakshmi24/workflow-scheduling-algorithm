@@ -1,0 +1,2 @@
+tempWorkflow.txt：记载从XML文件中读出的数据。
+producedWorkflow.txt：记载以tempWorkflow.txt为模板，生成的工作流测试集。
